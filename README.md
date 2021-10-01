@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c30net
-- 👀 I’m interested in HTML, CSS, JavaScript, PHP and Python
+- 👀 I’m interested in HTML, CSS, JavaScript, PHP
 - 🌱 I’m currently learning PHP & Javascript
 - 💞️ I’m looking to collaborate on PHP and JavaScript Projects
 - 📫 How to reach me https://twitter.com/c30net
